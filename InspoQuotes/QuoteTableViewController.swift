@@ -99,7 +99,7 @@ class QuoteTableViewController: UITableViewController, SKPaymentTransactionObser
             } else if transaction.transactionState == .failed {
                 //Payment failed
                 
-                print("Transaction fail")
+                print("Transaction fails")
             }
         }
     }
