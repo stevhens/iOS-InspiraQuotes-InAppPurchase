@@ -1,1 +1,1 @@
-# InspoQuotes - In-App Purchase
+# InspiraQuotes - In-App Purchase
